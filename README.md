@@ -79,8 +79,8 @@ No need to worry about Android versions. Nearxy is designed to be lightweight an
 
 Love the app and want to support its development to make it even better? Feel free to say hi or treat us to a coffee!
 
-* 💬 **Discord Community:** [Join Server Discord Kita](https://discord.gg/LINK_DISCORD_KAMU)
-* ☕ **Donate via Saweria:** [Saweria Nearxy](https://saweria.co/USERNAME_KAMU)
+* 💬 **Discord Community:** [Join Our_Discord](https://discord.gg/LINK_DISCORD_KAMU)
+* ☕ **Donate via Saweria:** [Click Here](https://saweria.co/USERNAME_KAMU)
 
 ---
 
