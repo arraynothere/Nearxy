@@ -53,8 +53,8 @@ Berikut senjata utama yang bikin Nearxy wajib ada di HP gamer Android:
 Gak perlu pusing mikirin versi Android. Nearxy dirancang ringan dan fleksibel banget dari OS jadul sampai yang paling baru:
 
 * 📱 **Android Support:** Android 7.0 (Nougat) sampai **Android 15**
-* ⚡ **Root:** Tidak diwajibkan (Non-Root friendly)
-* 🛡️ **Keamanan:** 100% Bebas Malware / Virus & Aman digunakan
+* ⚡ **Root:** Tidak diwajibkan
+* 🛡️ **Keamanan:** Bebas Malware
 
 ---
 
