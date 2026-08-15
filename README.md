@@ -51,7 +51,7 @@ Gak perlu pusing mikirin versi Android. Nearxy dirancang ringan dan fleksibel ba
 
 ---
 
-## 📸 Preview Aplikasi
+## 📸 Preview
 
 <div align="center">
   <img src="preview-potrait-1.jpg" width="30%" alt="Dashboard Nearxy">&nbsp;
