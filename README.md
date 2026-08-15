@@ -10,22 +10,21 @@
   [![Security](https://img.shields.io/badge/Malware-Free-emerald?style=for-the-badge&logo=shield)](https://github.com)
   [![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)](https://github.com)
 
-  <a href="#-download--instalasi"><b>Download APK Terbaru</b></a> •
-  <a href="#-fitur-unggulan"><b>Fitur Utama</b></a> •
+  <a href="#-download--instalasi"><b>Download Latest Version</b></a> •
+  <a href="#-fitur-unggulan"><b>Best Feature</b></a> •
   <a href="#-kompatibilitas"><b>Support Device</b></a> •
-  <a href="#-komunitas--donasi"><b>Komunitas</b></a>
+  <a href="#-komunitas--donasi"><b>Community</b></a>
 
 </div>
 
 ---
 
-## 🚀 Kenapa Harus Nearxy?
+## ❔ Why Choose Nearxy??
 
-Pernah gak sih lagi asyik-*clutch* atau duel 1v1, tiba-tiba HP nge-lag atau *frame drop* cuma gara-gara ada aplikasi di latar belakang yang jalan sendiri? Bikin emosi kan?
+Have you ever been having fun *clutch* or dueling 1v1, suddenly your cellphone lagged or *frame dropped* just because there was an application in the background running by itself? Makes you emotional, right?
 
-**Nearxy** hadir buat nyelesaiin masalah itu. Ini bukan sekadar *game booster* hiasan yang cuma ngehapus cache tipu-tipu. Nearxy secara cerdas mematikan *background services* yang gak penting, ngosongin ruang RAM, dan nempatin performa chipset HP kamu di level maksimal khusus buat game yang lagi dimainin.
-
-> 💡 **Core Function:** Ngebantai *background processes*, ngejaga suhu biar stabil, dan nyediain *tools* gaming pro langsung di dalam satu aplikasi.
+**Nearxy** is here to solve that problem. It’s not just a superficial "game booster" that merely clears cache for show. Nearxy intelligently shuts down non-essential background services, frees up RAM, and maximizes your phone's chipset performance specifically for the game you're playing. 
+> 💡 **Core Function:** Terminates background processes, maintains stable temperatures, and provides pro-level gaming tools—all within a single app.
 
 ---
 
