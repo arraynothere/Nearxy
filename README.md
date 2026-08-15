@@ -10,10 +10,10 @@
   [![Security](https://img.shields.io/badge/Malware-Free-emerald?style=for-the-badge&logo=shield)](https://github.com)
   [![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)](https://github.com)
 
-  <a href="#-download--instalasi"><b>Download Latest Version</b></a> •
-  <a href="#-fitur-unggulan"><b>Best Feature</b></a> •
-  <a href="#-kompatibilitas"><b>Support Device</b></a> •
-  <a href="#-komunitas--donasi"><b>Community</b></a>
+  <a href="#-download--installation"><b>Download Latest Version</b></a> •
+  <a href="#-best-feature"><b>Best Feature</b></a> •
+  <a href="#-compatibillity"><b>Support Device</b></a> •
+  <a href="#-community--donation"><b>Community</b></a>
 
 </div>
 
@@ -79,7 +79,7 @@ No need to worry about Android versions. Nearxy is designed to be lightweight an
 
 Love the app and want to support its development to make it even better? Feel free to say hi or treat us to a coffee!
 
-* 💬 **Discord Community:** [Join Our_Discord](https://discord.gg/LINK_DISCORD_KAMU)
+* 💬 **Discord Community:** [Join Our Discord](https://discord.gg/LINK_DISCORD_KAMU)
 * ☕ **Donate via Saweria:** [Click Here](https://saweria.co/USERNAME_KAMU)
 
 ---
