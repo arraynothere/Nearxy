@@ -12,8 +12,8 @@
 
   <a href="#-download--installation"><b>Download Latest Version</b></a> •
   <a href="#-best-feature"><b>Best Feature</b></a> •
-  <a href="#-compatibillity"><b>Support Device</b></a> •
-  <a href="#-community--donation"><b>Community</b></a>
+  <a href="#-device-compatibillity"><b>Support Device</b></a> •
+  <a href="#-community--donations"><b>Community</b></a>
 
 </div>
 
