@@ -2,7 +2,7 @@
 
   <img src="logo.png" alt="Nearxy Logo" width="120" height="120" style="border-radius: 20%;">
 
-  # ⚡ NEARXY
+  # NEARXY
   ### *The Ultimate Android Gaming Utility & Game Booster*
 
   [![Android Support](https://img.shields.io/badge/Android-7.0%20to%2015-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
