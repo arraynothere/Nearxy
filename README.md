@@ -28,25 +28,25 @@ Have you ever been having fun *clutch* or dueling 1v1, suddenly your cellphone l
 
 ---
 
-## 🔥 Fitur Unggulan
+## 🔥 Best Feature
 
-| Fitur | Deskripsi |
+| Feature | Description |
 | :--- | :--- |
-| 💻 **Command Shell** | Punya akses terminal & shell bawaan. Kamu bisa nge-run *custom tweaks* dan optimasi sistem tingkat lanjut sesuai selera. |
-| 🎯 **Custom Crosshair** | Bikin bidikan game FPS (PUBG, Free Fire, CODM, dll) makin presisi pakai overlay crosshair custom yang warna & bentuknya bisa diatur sesuka hati. |
-| 🧩 **Gyro Calibration** | Sensor Gyro kerasa *delay* atau patah? Kalibrasi ulang sensor Gyroscope kamu lewat fitur ini biar makin lincah & presisi waktu nge-aim. |
-| 📊 **Real-time Monitoring** | Pantau FPS, penggunaan RAM, hingga suhu HP (*temperature*) secara *live* di dalam game. |
-| 🧹 **Background Clean Up** | Otomatis bersihin service latar belakang yang kemaruk makan RAM dan baterai. |
+| 💻 **Command Shell** | It comes with built-in terminal and shell access. You can run custom tweaks and advanced system optimizations to your liking.|
+| 🎯 **Custom Crosshair** | Make your aiming in FPS games (PUBG, Free Fire, CODM, etc.) more precise using a custom crosshair overlay with fully adjustable color and shape.|
+| 🧩 **Gyro Calibration** | Does your gyro sensor feel laggy or jittery? Recalibrate it using this feature for snappier, more precise aiming.|
+| 📊 **Real-time Monitoring** | Monitor FPS, RAM usage, and even your phone's temperature in real-time while gaming.|
+| 🧹 **Background Clean Up** | Automatically cleans background services that are greedy for RAM and battery.|
 
 ---
 
-## 📱 Kompatibilitas Device
+## 📱 Device Compatibility
 
-Gak perlu pusing mikirin versi Android. Nearxy dirancang ringan dan fleksibel banget dari OS jadul sampai yang paling baru:
+No need to worry about Android versions. Nearxy is designed to be lightweight and highly flexible, supporting everything from older operating systems to the very latest ones:
 
-* 📱 **Android Support:** Android 7.0 (Nougat) sampai **Android 15**
-* ⚡ **Root:** Tidak diwajibkan
-* 🛡️ **Keamanan:** Bebas Malware
+* 📱 **Android Support:** Android 7.0 (Nougat) into **Android 15**
+* ⚡ **Root:** Not mandatory
+* 🛡️ **Security:** Malware-free
 
 ---
 
@@ -61,26 +61,26 @@ Gak perlu pusing mikirin versi Android. Nearxy dirancang ringan dan fleksibel ba
 
 ---
 
-## 📥 Download & Instalasi
+## 📥 Download & Installation
 
-1. Ambil file `.apk` resmi versi terbaru di tombol bawah ini:
+1. Get the latest official `.apk` file using the button below:
    <br>
    <a href="Nearxy_1.0.apk">
      <img src="https://img.shields.io/badge/Download_Nearxy_LATEST-APK-4F46E5?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
    </a>
 
-2. Buka file `.apk` yang udah di-download di HP kamu.
-3. Kalau ada notifikasi instalasi dari sumber tidak dikenal (*Unknown Sources*), izinkan aja bro (Tenang, aman kok!).
-4. Buka **Nearxy**, siapin settingan favorit kamu, dan langsung eksekusi game kesayangan!
+2. Open the downloaded `.apk` file on your phone.
+3. If you get an installation notification from an unknown source (*Unknown Sources*), just allow it, man.
+4. Open **Nearxy**, set up your preferred settings, and jump straight into your favorite game!
 
 ---
 
-## 💬 Komunitas & Donasi
+## 💬 Community & Donations
 
-Suka sama aplikasinya dan mau dukung pengembangannya biar makin makin jos? Boleh banget nyapa kita atau traktir kopi!
+Love the app and want to support its development to make it even better? Feel free to say hi or treat us to a coffee!
 
 * 💬 **Discord Community:** [Join Server Discord Kita](https://discord.gg/LINK_DISCORD_KAMU)
-* ☕ **Dukung via Saweria:** [Saweria Nearxy](https://saweria.co/USERNAME_KAMU)
+* ☕ **Donate via Saweria:** [Saweria Nearxy](https://saweria.co/USERNAME_KAMU)
 
 ---
 
