@@ -31,15 +31,13 @@ Pernah gak sih lagi asyik-*clutch* atau duel 1v1, tiba-tiba HP nge-lag atau *fra
 
 ## 🔥 Fitur Unggulan
 
-Berikut senjata utama yang bikin Nearxy wajib ada di HP gamer Android:
-
 | Fitur | Deskripsi |
 | :--- | :--- |
-| 💻 **Command Shell** | Punya akses terminal & shell bawaan. Kamu bisa nge-run *custom tweaks* dan optimasi sistem tingkat lanjut sesuai selera kamu sendiri. |
+| 💻 **Command Shell** | Punya akses terminal & shell bawaan. Kamu bisa nge-run *custom tweaks* dan optimasi sistem tingkat lanjut sesuai selera. |
 | 🎯 **Custom Crosshair** | Bikin bidikan game FPS (PUBG, Free Fire, CODM, dll) makin presisi pakai overlay crosshair custom yang warna & bentuknya bisa diatur sesuka hati. |
 | 🧩 **Gyro Calibration** | Sensor Gyro kerasa *delay* atau patah? Kalibrasi ulang sensor Gyroscope kamu lewat fitur ini biar makin lincah & presisi waktu nge-aim. |
-| 📊 **Real-time Monitoring** | Pantau FPS, penggunaan RAM, hingga suhu HP (*temperature*) secara *live* di dalam game. Jadi kamu tahu kapan HP lagi di performa puncak! |
-| 🧹 **Background Clean Up** | Sekali klik, otomatis bersihin service latar belakang yang kemaruk makan RAM dan baterai. |
+| 📊 **Real-time Monitoring** | Pantau FPS, penggunaan RAM, hingga suhu HP (*temperature*) secara *live* di dalam game. |
+| 🧹 **Background Clean Up** | Otomatis bersihin service latar belakang yang kemaruk makan RAM dan baterai. |
 
 ---
 
