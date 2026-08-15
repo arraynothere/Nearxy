@@ -73,7 +73,7 @@ Gak perlu pusing mikirin versi Android. Nearxy dirancang ringan dan fleksibel ba
 1. Ambil file `.apk` resmi versi terbaru di tombol bawah ini:
    <br>
    <a href="nearxy-v1.0.0.apk">
-     <img src="https://img.shields.io/badge/Download_Nearxy_v1.0.0-APK-4F46E5?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+     <img src="https://img.shields.io/badge/Download_Nearxy_LATEST-APK-4F46E5?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
    </a>
 
 2. Buka file `.apk` yang udah di-download di HP kamu.
