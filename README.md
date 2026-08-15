@@ -93,6 +93,6 @@ Suka sama aplikasinya dan mau dukung pengembangannya biar makin makin jos? Boleh
 
 <div align="center">
 
-  **Nearxy Platform © 2026** • *Built by Gamer, For Gamers.*
+  **Nearxy © 2026** • *Built by @arraydeveloper, For Gamers.*
 
 </div>
