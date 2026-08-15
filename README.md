@@ -10,11 +10,6 @@
   [![Security](https://img.shields.io/badge/Malware-Free-emerald?style=for-the-badge&logo=shield)](https://github.com)
   [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com)
 
-  <p align="center">
-    <b>Main game di Android sering patah-patah gara-gara background app ngerusuh?</b><br>
-    Nearxy siap nyapu bersih sampah resource sistem kamu biar RAM dan CPU 100% fokus nemenin kamu ngeraih Victory di epep!
-  </p>
-
   <a href="#-download--instalasi"><b>Download APK Terbaru</b></a> •
   <a href="#-fitur-unggulan"><b>Fitur Utama</b></a> •
   <a href="#-kompatibilitas"><b>Support Device</b></a> •
