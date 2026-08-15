@@ -12,7 +12,7 @@
 
   <p align="center">
     <b>Main game di Android sering patah-patah gara-gara background app ngerusuh?</b><br>
-    Nearxy siap nyapu bersih sampah resource sistem kamu biar RAM dan CPU 100% fokus nemenin kamu ngeraih Victory/Booyah!
+    Nearxy siap nyapu bersih sampah resource sistem kamu biar RAM dan CPU 100% fokus nemenin kamu ngeraih Victory di epep!
   </p>
 
   <a href="#-download--instalasi"><b>Download APK Terbaru</b></a> •
