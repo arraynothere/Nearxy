@@ -8,7 +8,7 @@
   [![Android Support](https://img.shields.io/badge/Android-7.0%20to%2015-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
   [![License](https://img.shields.io/badge/License-Free-indigo?style=for-the-badge)](https://github.com)
   [![Security](https://img.shields.io/badge/Malware-Free-emerald?style=for-the-badge&logo=shield)](https://github.com)
-  [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com)
+  [![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)](https://github.com)
 
   <a href="#-download--instalasi"><b>Download APK Terbaru</b></a> •
   <a href="#-fitur-unggulan"><b>Fitur Utama</b></a> •
